@@ -1,1 +1,3 @@
-Another README.md file\nGit is very interesting
+Another README.md file
+Git is very interesting
+Update done remotely
